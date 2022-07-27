@@ -20,11 +20,11 @@ Abstract:Se realizo un proyecto con Django, se agrego una aplicación 'pages', l
 
 ## Use
 - for docker
-  ```
+```
   > docker build .
   > docker-compose up
   > docker-compose down
-  ```
+ ```
 ## Directory Hierarchy
 ```
 |—— .dockerignore
